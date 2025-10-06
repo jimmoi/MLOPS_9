@@ -1,0 +1,10 @@
+artifact_location: file:///D:/KKU/%E0%B8%9B%E0%B8%B53%20%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A11/MLOps/lab/MLOPS_9/mlruns/646654557901865606/models/m-007f6784db994df6b42d5bbd358e4968/artifacts
+creation_timestamp: 1757908183908
+experiment_id: '646654557901865606'
+last_updated_timestamp: 1757908189517
+model_id: m-007f6784db994df6b42d5bbd358e4968
+model_type: null
+name: iris_classifier_pipeline
+source_run_id: 678e92f74a2f47168b7bfe46a76698a8
+status: 2
+status_message: null

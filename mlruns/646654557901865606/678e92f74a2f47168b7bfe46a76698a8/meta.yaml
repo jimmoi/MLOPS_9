@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/KKU/%E0%B8%9B%E0%B8%B53%20%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A11/MLOps/lab/MLOPS_9/mlruns/646654557901865606/678e92f74a2f47168b7bfe46a76698a8/artifacts
+end_time: 1757908189724
+entry_point_name: ''
+experiment_id: '646654557901865606'
+lifecycle_stage: active
+run_id: 678e92f74a2f47168b7bfe46a76698a8
+run_name: logistic_regression_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908183680
+status: 3
+tags: []
+user_id: gotxz
